@@ -18,7 +18,7 @@ import 'package:dasar_widget/widgets/align_widget.dart';
 import 'package:dasar_widget/widgets/wrap_widget.dart';
 import 'package:dasar_widget/widgets/listview_widget.dart';
 import 'package:dasar_widget/widgets/gridview_widget.dart';
-import 'package:dasar_widget/widgets/tugas1.dart';
+import 'package:dasar_widget/pages/tugas1_page.dart';
 import 'package:dasar_widget/widgets/tugas2.dart';
 
 class MenuPage extends StatelessWidget {
